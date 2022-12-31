@@ -1,0 +1,17 @@
+{
+    "name": "axlku/pruebawelldex",
+    "description": "Prueba welldex",
+    "type": "project",
+    "authors": [
+        {
+            "name": "axlkun",
+            "email": "axelcruz.dev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\" : "./classes"
+        }
+    }
+}
